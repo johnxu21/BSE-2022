@@ -12,3 +12,6 @@ The following are the group members;
 9. HURWYFSGUFRW
 10. HGDFGEUYFEYU
 11. ADGHFGADFG
+12. docti
+13. git doctor
+14. facebook
